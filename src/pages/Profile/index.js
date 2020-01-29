@@ -4,6 +4,8 @@ import React from 'react';
 
 export default function Profile() {
   return (
-    <div />
+    <div>
+      <h1>tela de Profile</h1>
+    </div>
   );
 }
